@@ -1,0 +1,6 @@
+{
+  "name": "Oltinko'l MFY",
+  "description": "Oltinko'l tumanidagi muammolarni monitoring qilish va 3 kun ichida hal etish bepul ochiq portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
